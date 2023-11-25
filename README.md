@@ -1,6 +1,6 @@
-# 🌈 SteganAwesome Project 🚀
+# 🌈 Steganography  Project 🚀
 
-Hide your secrets in plain sight with the SteganAwesome project! 🤫 This fun and interactive steganography tool lets you embed and extract text in images effortlessly.
+Hide your secrets in plain sight with the Steganography project! 🤫 This fun and interactive steganography tool lets you embed and extract text in images effortlessly.
 
 ## 🚦 Features
 
